@@ -25,11 +25,6 @@ Para la administración de los empleados, cada uno de ellos contará con un usua
   b. Todos los huéspedes registrados en el sistema.
   c. Lista de las reservas realizadas por un determinado empleado.
   d. Listas de todas las reservas realizadas por un determinado huésped en un período desde/hasta.
-  
-### Bonus
-
-El sistema que se planteó con anterioridad no tiene pensado el manejo ni de dinero ni de ganancias; sin embargo, el dueño del hotel propuso una recompensa para aquel desarrollador que realice una propuesta que le permita, a través del sistema, conocer las ganancias diarias y mensuales en base a las reservas realizadas de las habitaciones.
-
 
 ## Consideraciones
 
@@ -59,7 +54,43 @@ Se deberá presentar:
   - Eficiencia en el armado del UML
   - Aportes o ideas extras por parte del alumno
 
- ## Vista del trabajo terminado 
+## Características
+Actualmente incluye:
+
+ - Inicio de sesión de administrador con múltiples usuarios y permisos editables.
+ - Seccion de inicio con tarjetas informativas.
+ - Gestion de Administradores.
+ - Gestion Habitaciones.
+ - Gestion de Reserva.
+ - Gestion de Huespedes.
+
+ Construida con:
+ - Plantilla Admin Dashboard, para el frond-end, se personalizo y optimizo acorde para el proyecto.
+ - Se uso lenguaje Java y POO.
+ - Se uso de JPA.
+ - Se uso CSS y HTML (permitiendo el uso de plantillas).
+ - Se uso Javascript basico.
+ - Se uso JSP y comunicación entre capas.
+ - Mysql 5.6 para la gestion de la base de datos.
+
+ 
+ Dependencias utilizadas:
+  - jQuery 
+  - Bootstrap 5
+  - Bootstrap-icons
+  - Sweetalert2
+  - Font Awesome
+  
+## Vistas del panel:
+
+- Login 
+<img src=" "/>
+
+-Seccion de inicio
+<img  src=" "/>
+
+-Gestion de reservas
+<img src=" "/>
  
  
   
