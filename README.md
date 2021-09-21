@@ -80,17 +80,23 @@ Actualmente incluye:
   - Bootstrap-icons
   - Sweetalert2
   - Font Awesome
+
+## Uml realizado 
+
+<img src="https://github.com/IngAlarcon/SistemaDeReservaDeHabitacion/blob/main/Diagrama1.png"/>
   
 ## Vistas del panel:
 
 - Login 
-<img src=" "/>
+<img src="https://github.com/IngAlarcon/SistemaDeReservaDeHabitacion/blob/main/login.png"/>
 
--Seccion de inicio
-<img  src=" "/>
+-Registro de Huespedes
+<img  src="https://github.com/IngAlarcon/SistemaDeReservaDeHabitacion/blob/main/vistaTablaReserva.png"/>
 
 -Gestion de reservas
-<img src=" "/>
+<img src="https://github.com/IngAlarcon/SistemaDeReservaDeHabitacion/blob/main/vistaTablaReserva.png"/>
+
+
  
  
   
