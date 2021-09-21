@@ -16,14 +16,14 @@ El sistema está pensado para ser utilizado únicamente por los EMPLEADOS del ho
 
 Para la administración de los empleados, cada uno de ellos contará con un usuario y contraseña que le permitirá ingresar al sistema; para ello, cada uno de ellos deberá de estar registrado en el sistema con sus correspondientes datos personales (dni, nombre, apellido, fecha de nacimiento, dirección y cargo). Cabe destacar que los empleados reciben bonificaciones monetarias por cantidad de reservas realizadas por día, por lo que cada reserva debe tener asignada el usuario que la dio de alta.
 
-#### Por otra parte, el sistema deberá poder permitir visualizar las siguientes consultas/informes:
+### Por otra parte, el sistema deberá poder permitir visualizar las siguientes consultas/informes:
 
   a. Todas las reservas realizadas en un determinado día.
   b. Todos los huéspedes registrados en el sistema.
   c. Lista de las reservas realizadas por un determinado empleado.
   d. Listas de todas las reservas realizadas por un determinado huésped en un período desde/hasta.
   
-#### Bonus
+### Bonus
 
 El sistema que se planteó con anterioridad no tiene pensado el manejo ni de dinero ni de ganancias; sin embargo, el dueño del hotel propuso una recompensa para aquel desarrollador que realice una propuesta que le permita, a través del sistema, conocer las ganancias diarias y mensuales en base a las reservas realizadas de las habitaciones.
 
@@ -31,34 +31,35 @@ El sistema que se planteó con anterioridad no tiene pensado el manejo ni de din
 ## Consideraciones
 
 Se deberá presentar:
-  ✓ Diagrama de clases del modelo de datos de la aplicación a desarrollar (en formato digital).
-  ✓ Archivos de código fuente de la aplicación web.
-  ✓ Especificación de la configuración de la base de datos (usuarios, contraseñas, etc para poder replicar).
-  ✓ Documento de supuestos: Un documento con todas las suposiciones que tuvo el analista/programador. Por ejemplo, se supone que el límite máximo de personas por        habitación múltiple es de 8.
-  ✓ Una presentación oral breve por parte del alumno mediante un video grabando la pantalla (video de hasta 10 minutos como máximo donde pueda mostrar el sistema,      comentar los supuestos que tuvo, etc).
+  - Diagrama de clases del modelo de datos de la aplicación a desarrollar (en formato digital).
+  - Archivos de código fuente de la aplicación web.
+  - Especificación de la configuración de la base de datos (usuarios, contraseñas, etc para poder replicar).
+  - Documento de supuestos: Un documento con todas las suposiciones que tuvo el analista/programador. Por ejemplo, se supone que el límite máximo de personas por        habitación múltiple es de 8.
+  - Una presentación oral breve por parte del alumno mediante un video grabando la pantalla (video de hasta 10 minutos como máximo donde pueda mostrar el sistema,      comentar los supuestos que tuvo, etc).
   
-     o Es deseable que se visualice la cara del alumno y se escuche su voz en la explicación. Se recomienda la aplicación OBS Studio para grabación de pantalla. En      caso de no contar con las herramientas necesarias, puede grabarse la pantalla con el celular y comentar de fondo.
+     - Es deseable que se visualice la cara del alumno y se escuche su voz en la explicación. Se recomienda la aplicación OBS Studio para grabación de pantalla. En      caso de no contar con las herramientas necesarias, puede grabarse la pantalla con el celular y comentar de fondo.
          
 ## Método de Evaluación
 
   La docente realizará las siguientes acciones:
-  • Verificación del diagrama de clases (modelo de datos) utilizado.
-  • Prueba del funcionamiento de la aplicación. Ejecución, realización de ABML (altas, bajas, modificaciones y lectura/consulta de datos).
-  • Visualización del video proporcionado por el alumno.
+  - Verificación del diagrama de clases (modelo de datos) utilizado.
+  - Prueba del funcionamiento de la aplicación. Ejecución, realización de ABML (altas, bajas, modificaciones y lectura/consulta de datos).
+  - Visualización del video proporcionado por el alumno.
+  
   Para la aprobación se tendrá en cuenta:
-  • El sistema deberá contar con un 70% de funcionalidad.
-  o Se tendrá consideración sobre errores pequeños.
-  o La aplicación DEBERÁ de forma OBLIGATORIA implementar el modelo de capas correctamente.
-  o No se tolerarán bucles infinitos, errores por desbordamiento, o errores graves.
-  o Se espera que la aplicación logre, como mínimo, un ABML COMPLETO desde la aplicación web.
+  - El sistema deberá contar con un 70% de funcionalidad.
+  - Se tendrá consideración sobre errores pequeños.
+  - La aplicación DEBERÁ de forma OBLIGATORIA implementar el modelo de capas correctamente.
+  - No se tolerarán bucles infinitos, errores por desbordamiento, o errores graves.
+  - Se espera que la aplicación logre, como mínimo, un ABML COMPLETO desde la aplicación web.
 
 ## Se valorará (puntos extra):
 
-  • Interfaz Gráfica atractiva e interactiva
-  • Correcta visualización de los datos que se muestren por pantalla
-  • Eficiencia en el armado del UML
-  • Aportes o ideas extras por parte del alumno
-  • Utilización de GitHub como medio de entrega.
+  - Interfaz Gráfica atractiva e interactiva
+  - Correcta visualización de los datos que se muestren por pantalla
+  - Eficiencia en el armado del UML
+  - Aportes o ideas extras por parte del alumno
+  - Utilización de GitHub como medio de entrega.
   
   
   
