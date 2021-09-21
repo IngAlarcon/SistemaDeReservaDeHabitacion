@@ -85,7 +85,7 @@ Actualmente incluye:
 
 <img src="https://github.com/IngAlarcon/SistemaDeReservaDeHabitacion/blob/main/Diagrama1.png"/>
   
-## Vistas del panel:
+## Vistas del Sistema de Reserva :
 
 - Login 
 <img src="https://github.com/IngAlarcon/SistemaDeReservaDeHabitacion/blob/main/login.png"/>
