@@ -54,7 +54,7 @@ Se deberá presentar:
   - Eficiencia en el armado del UML
   - Aportes o ideas extras por parte del alumno
 
-## Características
+## Características desarrollada del Proyecto
 Actualmente incluye:
 
  - Inicio de sesión de administrador con múltiples usuarios y permisos editables.
