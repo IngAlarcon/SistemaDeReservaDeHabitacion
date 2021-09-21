@@ -1,6 +1,9 @@
 # Sistema De Reserva De Habitacion
 Es un sistema en donde se realizan registro de reservas, empleados, huéspedes y habitaciones, diseñado para que lo gestionen de manera intuitiva.
 
+### Proyecto Java Web con Jsp (Java Persistence API), Jpa (Java Server Pages ), capa Lógica, Persistencia y Servlet.
+
+
 ## Escenario
 
 Un prestigioso hotel desea llevar a cabo un sistema para la informatización de las reservas de sus diferentes habitaciones que tiene disponibles.
@@ -34,18 +37,14 @@ Se deberá presentar:
   - Diagrama de clases del modelo de datos de la aplicación a desarrollar (en formato digital).
   - Archivos de código fuente de la aplicación web.
   - Especificación de la configuración de la base de datos (usuarios, contraseñas, etc para poder replicar).
-  - Documento de supuestos: Un documento con todas las suposiciones que tuvo el analista/programador. Por ejemplo, se supone que el límite máximo de personas por        habitación múltiple es de 8.
-  - Una presentación oral breve por parte del alumno mediante un video grabando la pantalla (video de hasta 10 minutos como máximo donde pueda mostrar el sistema,      comentar los supuestos que tuvo, etc).
-  
-     - Es deseable que se visualice la cara del alumno y se escuche su voz en la explicación. Se recomienda la aplicación OBS Studio para grabación de pantalla. En      caso de no contar con las herramientas necesarias, puede grabarse la pantalla con el celular y comentar de fondo.
+  - Documento de supuestos: Un documento con todas las suposiciones que tuvo el analista/programador. Por ejemplo, se supone que el límite máximo de personas por habitación múltiple es de 8.
          
 ## Método de Evaluación
 
   La docente realizará las siguientes acciones:
   - Verificación del diagrama de clases (modelo de datos) utilizado.
   - Prueba del funcionamiento de la aplicación. Ejecución, realización de ABML (altas, bajas, modificaciones y lectura/consulta de datos).
-  - Visualización del video proporcionado por el alumno.
-  
+
   Para la aprobación se tendrá en cuenta:
   - El sistema deberá contar con un 70% de funcionalidad.
   - Se tendrá consideración sobre errores pequeños.
@@ -59,8 +58,8 @@ Se deberá presentar:
   - Correcta visualización de los datos que se muestren por pantalla
   - Eficiencia en el armado del UML
   - Aportes o ideas extras por parte del alumno
-  - Utilización de GitHub como medio de entrega.
-  
-  
-  
+
+ ## Vista del trabajo terminado 
+ 
+ 
   
